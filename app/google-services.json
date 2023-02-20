@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "44973022357",
+    "firebase_url": "https://mahathi-systems.firebaseio.com",
+    "project_id": "mahathi-systems",
+    "storage_bucket": "mahathi-systems.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44973022357:android:d0e8f7250583a05e",
+        "android_client_info": {
+          "package_name": "msipl.com.mahathisystems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44973022357-kplrpb608glek66gu3v2aghfmd84bviu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkLbBuSHSR2lgpr_eTsYUwvbvVXW0bO2w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
